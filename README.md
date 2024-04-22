@@ -22,3 +22,9 @@
   <img align="center" alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <img align="center" alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
+
+<div align="center">
+
+  ![snake gif](https://github.com/isabellavictorino/isabellavictorino/blob/output/github-contribution-grid-snake.svg)
+
+</div>
